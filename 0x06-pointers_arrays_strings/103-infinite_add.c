@@ -69,3 +69,4 @@ return (0);
 rev_string(r);
 return (r);
 }
+
